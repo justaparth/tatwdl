@@ -1,1 +1,15 @@
 Script to download TATW podcasts
+
+Usage:
+
+This downloads just the podcast from podcast num
+python tatwdl.py <podcast_num>
+
+This downloads all podcasts from start_num to end_num inclusive
+python tatwdl.py <start_num> <end_num>
+
+TODO:
+Make it of the form where it will download all podcasts to current,
+potentially even make sure it doesn't re-download downloaded things
+python tatwdl.py <start_num> CURRENT
+
