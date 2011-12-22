@@ -10,7 +10,7 @@ import subprocess
 import sys
 
 def usage():
-    print "Usage: ./temp.py <start_num> [<end_num>]"
+    print("Usage: ./temp.py <start_num> [<end_num>]")
     sys.exit(1)
 
 def main():
