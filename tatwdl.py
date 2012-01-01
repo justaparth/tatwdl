@@ -2,6 +2,8 @@
 
 # Download podcasts from Trance around the World
 
+# TODO: add in support for just updating a directory to the current
+
 # Usage:
 # ./tatwdl.py <podcast_number> -- downloads 1 podcast
 # ./tatwdl.py <start_num> <end_num> -- downloads all podcasts in range inclusive
